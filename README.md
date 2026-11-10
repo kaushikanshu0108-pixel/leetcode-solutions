@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -71,4 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
