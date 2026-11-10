@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
