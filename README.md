@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
