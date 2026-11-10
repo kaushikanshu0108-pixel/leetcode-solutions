@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0441-arranging-coins](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0441-arranging-coins](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Interactive
