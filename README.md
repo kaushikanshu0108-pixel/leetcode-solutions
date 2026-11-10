@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
