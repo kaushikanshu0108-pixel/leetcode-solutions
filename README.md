@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/kaushikanshu0108-pixel/leetcode-solutions/tree/master/0704-binary-search) |
